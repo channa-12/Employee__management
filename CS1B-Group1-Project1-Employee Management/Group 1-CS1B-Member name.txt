@@ -1,0 +1,7 @@
+Group:1
+Class:CS1B
+Member:
+1. Pav Sopanharet
+2. Korn Sanit
+3. Chheun Chansreytoch
+4. Ven Channa
